@@ -1,4 +1,4 @@
-# Distributed Network Systems Project
+# Distributed Network Systems Project (CECS327)
 by: Kirby James Fernandez  
 	Jonny Olswang  
 	Joshua Reyes
