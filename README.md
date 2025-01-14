@@ -1,6 +1,6 @@
 # Distributed Network Systems Project
-by: Kirby James Fernandez \n
-	Jonny Olswang \n
+by: Kirby James Fernandez  
+	Jonny Olswang  
 	Joshua Reyes
 
 ## Introduction
